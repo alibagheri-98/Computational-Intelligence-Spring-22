@@ -5,3 +5,5 @@ In this repository, there are computational intelligence homework assignments th
 - Homework 2 includes neural network \(MLP\) questions
 - Homework 3 includes evolutionary and genetic algorithms questions
 - Homework 4 includes swarm intelligence questions
+
+Note: The course is instructed in Persian (Farsi) language.
